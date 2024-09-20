@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "cross-env": "^7.0.3",
-    "yarn": "^1.22.22"
-  },
-  "devDependencies": {
-    "@umijs/preset-ui": "^2.2.9"
-  }
-}
